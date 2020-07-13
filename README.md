@@ -1,2 +1,2 @@
-# dadosCovid
- This project uses covid data from Bazil
+# PyBrasileirao
+ This project shows data form Brazialian soccer league
